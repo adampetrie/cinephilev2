@@ -1,0 +1,1 @@
+export { MoviesAPI } from "./MoviesAPI";
